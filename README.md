@@ -3,7 +3,7 @@
 <h3 align="center">AI & Data Science Student </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="400" />
 </p>
 ---
 
